@@ -7,7 +7,7 @@
 <body>
 
 	<script type="text/javascript">
-		window.location.replace("https://dev-fvhdfvhd.pantheonsite.io/mtb/");
+		window.location.replace("https://dev-eryut5.pantheonsite.io/a/");
 	</script>
 
 </body>
